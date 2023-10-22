@@ -25,8 +25,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*/
 
 
-
-Youtube: Parcode
+Author:PardCode
+Youtube: https://www.youtube.com/@PardCode
+Tutorial: https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy
 
 Description
 PardCode is a Game Engine and GUI Framework developer, 
