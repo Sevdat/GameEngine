@@ -1,3 +1,6 @@
+//Readme: This project is licensed under the terms of the MIT license.
+//Author: Parcode
+
 #pragma once
 #include <d3d11.h>
 
