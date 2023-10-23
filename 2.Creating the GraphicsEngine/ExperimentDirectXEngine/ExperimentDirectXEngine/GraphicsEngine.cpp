@@ -1,3 +1,6 @@
+//Readme: This project is licensed under the terms of the MIT license.
+//Author: Parcode
+
 #include "GraphicsEngine.h"
 
 GraphicsEngine::GraphicsEngine() {
