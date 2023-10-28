@@ -1,0 +1,8 @@
+﻿  AppWindow.cpp
+  DeviceContext.cpp
+  GraphicsEngine.cpp
+  SwapChain.cpp
+  Window.cpp
+  main.cpp
+  Generating Code...
+  ExperimentDirectXEngine.vcxproj -> C:\Users\sevda\source\repos\ExperimentDirectXEngine\Debug\ExperimentDirectXEngine.exe
