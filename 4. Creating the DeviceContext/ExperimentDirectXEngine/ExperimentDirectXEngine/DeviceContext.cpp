@@ -1,3 +1,6 @@
+//Readme: This project is licensed under the terms of the MIT license.
+//Author: Parcode
+
 #include "DeviceContext.h"
 #include "SwapChain.h"
 
