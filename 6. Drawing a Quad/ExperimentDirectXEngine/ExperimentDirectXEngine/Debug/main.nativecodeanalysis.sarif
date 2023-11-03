@@ -1,0 +1,75 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32825.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/sevda/source/repos/experimentdirectxengine/experimentdirectxengine/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "af17573533deb09d6144f137de02c720a7905323feb61dae8085b1828e88e60a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/sevda/source/repos/experimentdirectxengine/experimentdirectxengine/appwindow.h"
+          },
+          "hashes": {
+            "sha-256": "249de1a90b1825472fae5eabadf0e0f81acaa63ec8546184ce36eef81916b406"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/sevda/source/repos/experimentdirectxengine/experimentdirectxengine/window.h"
+          },
+          "hashes": {
+            "sha-256": "d2060986cc9b8f9b0a4c78139cd953fac7b8429e0385a1aa242d48d0da59b77b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/sevda/source/repos/experimentdirectxengine/experimentdirectxengine/graphicsengine.h"
+          },
+          "hashes": {
+            "sha-256": "e659390ace1a34198f280822bce1c6fa2c2d2f65953a5fbd9a12ae2190088353"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/sevda/source/repos/experimentdirectxengine/experimentdirectxengine/swapchain.h"
+          },
+          "hashes": {
+            "sha-256": "ed64056c7e3e75bce71e338d3017ab5a952ab673ea7030628359a482e615d741"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/sevda/source/repos/experimentdirectxengine/experimentdirectxengine/devicecontext.h"
+          },
+          "hashes": {
+            "sha-256": "c827b8d6bf49a4c8f6ef1e3a7c546a9406360b06e24f7e4b2c652b29222341d7"
+          }
+        }
+      ]
+    }
+  ]
+}
