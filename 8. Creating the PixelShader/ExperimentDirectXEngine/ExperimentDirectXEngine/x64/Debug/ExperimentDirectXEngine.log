@@ -1,0 +1,8 @@
+﻿  VertexBuffer.cpp
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\VertexBuffer.h(7,24): error C2061: syntax error: identifier 'UINT'
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\VertexBuffer.cpp(7,20): error C2511: 'bool VertexBuffer::load(void *,UINT,UINT)': overloaded member function not found in 'VertexBuffer'
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\GraphicsEngine.h(9,7): message : see declaration of 'VertexBuffer'
+  Window.cpp
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Window.cpp(26,19): error C2065: 'GWL_USERDATA': undeclared identifier
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Window.cpp(39,41): error C2065: 'GWL_USERDATA': undeclared identifier
+  Generating Code...
