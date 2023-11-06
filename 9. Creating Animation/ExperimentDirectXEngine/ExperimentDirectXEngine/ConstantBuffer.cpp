@@ -1,3 +1,6 @@
+//Readme: This project is licensed under the terms of the MIT license.
+//Author: Pardcode
+
 #include "ConstantBuffer.h"
 #include "GraphicsEngine.h"
 #include "DeviceContext.h"
