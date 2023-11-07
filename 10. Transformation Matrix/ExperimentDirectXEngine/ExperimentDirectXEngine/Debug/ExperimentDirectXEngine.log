@@ -1,0 +1,4 @@
+﻿  AppWindow.cpp
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\AppWindow.cpp(52,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\AppWindow.cpp(197,33): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  ExperimentDirectXEngine.vcxproj -> C:\Users\sevda\source\repos\ExperimentDirectXEngine\Debug\ExperimentDirectXEngine.exe
