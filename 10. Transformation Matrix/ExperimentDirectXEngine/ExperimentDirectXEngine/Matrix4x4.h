@@ -11,7 +11,7 @@ public:
     Matrix4x4() {
     }
     void setIdentity() {
-        ::memset(m_mat, 0, sizeof(float) * 15);
+        ::memset(m_mat, 0, sizeof(float) * 16);
         m_mat[0][0] = 1;
         m_mat[1][1] = 1;
         m_mat[2][2] = 1;
@@ -54,7 +54,7 @@ public:
         m_mat[0][0] = 2.0f / width;
         m_mat[1][1] = 2.0f / height;
         m_mat[2][2] = 1.0f / (far_plane - near_plane);
-        m_mat[2][2] = -(near_plane / (far_plane - near_plane));
+        m_mat[3][2] = -(near_plane / (far_plane - near_plane));
     }
     ~Matrix4x4() {
     }
