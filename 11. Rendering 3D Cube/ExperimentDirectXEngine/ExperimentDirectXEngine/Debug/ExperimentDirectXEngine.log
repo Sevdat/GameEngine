@@ -1,0 +1,15 @@
+﻿  AppWindow.cpp
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(36,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(37,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(38,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(39,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(44,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(45,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(46,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(47,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(52,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(53,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(54,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\Matrix4x4.h(55,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sevda\source\repos\ExperimentDirectXEngine\ExperimentDirectXEngine\AppWindow.cpp(257,33): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  ExperimentDirectXEngine.vcxproj -> C:\Users\sevda\source\repos\ExperimentDirectXEngine\Debug\ExperimentDirectXEngine.exe
